@@ -8,8 +8,7 @@ The analysis focuses on sales performance, customer behavior, product trends, an
 
 ## 📌 Project Overview
 
-UrbanCart sells a wide range of consumer products and processes thousands of orders every month.  
-The goal of this project is to analyze transactional data and generate actionable insights to support **better business decisions**.
+	**UrbanCart** is a growing online retail platform operating across multiple cities. It offers a wide range of consumer products and processes thousands of customer orders each month. This analysis aims to uncover key **business insights** that can help **UrbanCart** make better **decisions** and improve overall **business performance**. 
 
 ---
 
@@ -17,14 +16,7 @@ The goal of this project is to analyze transactional data and generate actionabl
 
 - Database: **PostgreSQL**
 - Hosting Platform: **Supabase**
-- Data Type: Transactional & Dimensional Data
-- Tables include:
-  - Customers
-  - Orders
-  - Order Items
-  - Products
-  - Categories
-  - Inventory
+![ER Diagram](images/supabase.png)
 
 The database was hosted in Supabase and accessed using PostgreSQL for querying and analysis.
 
@@ -33,32 +25,30 @@ The database was hosted in Supabase and accessed using PostgreSQL for querying a
 ## 🧩 Entity Relationship (ER) Diagram
 
 The following ER diagram represents the structure of the UrbanCart database used in this analysis:
+![ER Diagram](image/page1.png)
+![ER Diagram](image/page2.png)
+![ER Diagram](image/page3.png)
+![ER Diagram](image/page4.png)
+![ER Diagram](image/page5.png)
+![ER Diagram](image/page6.png)
+![ER Diagram](image/page7.png)
+![ER Diagram](image/page8.png)
+![ER Diagram](image/page9.png)
+![ER Diagram](image/page10.png)
+![ER Diagram](image/page11.png)
+![ER Diagram](image/page12.png)
+![ER Diagram](image/page13.png)
+![ER Diagram](image/page14.png)
+![ER Diagram](image/page15.png)
+![ER Diagram](image/page16.png)
+![ER Diagram](image/page17.png)
+![ER Diagram](image/page18.png)
+![ER Diagram](image/page19.png)
+![ER Diagram](image/page20.png)
+![ER Diagram](image/page21.png)
+![ER Diagram](image/page22.png)
+![ER Diagram](image/page23.png)
 
-![ER Diagram](images/er diagram.png)
-![ER Diagram](images/supabase.png)
-> *(Replace the image path with your actual image location in GitHub)*
-
----
-
-## 🔍 Key Analysis Performed
-
-- Sales and revenue analysis by city and category
-- Customer purchasing behavior over time
-- Payment method analysis by city
-- High-value order analysis
-- Product co-occurrence and bundle recommendations
-- Stock risk and inventory analysis
-
----
-
-## 📊 Business Insights
-
-- Identified top-performing cities and categories by revenue
-- Found customer payment preferences across cities
-- Discovered frequently ordered product pairs for cross-selling
-- Highlighted stock-out risk products based on demand and inventory
-
----
 
 ## 🛠️ Tools & Technologies
 
