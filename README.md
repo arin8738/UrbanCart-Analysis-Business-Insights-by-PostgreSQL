@@ -1,5 +1,5 @@
-"# UrbanCart-Analysis-Business-Insights-by-PostgreSQL" 
-# 🛒 UrbanCart – Retail Shop Case Study (SQL Analysis)
+
+# 🛒 UrbanCart – Analysis Business Insights by (SQL Analysis)
 
 This project presents a **SQL-based retail case study** analyzing UrbanCart, a growing online retail platform operating across multiple cities.  
 The analysis focuses on sales performance, customer behavior, product trends, and business insights using **PostgreSQL**.
