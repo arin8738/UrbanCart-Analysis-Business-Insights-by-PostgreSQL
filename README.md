@@ -70,5 +70,18 @@ The following ER diagram represents the structure of the UrbanCart database used
 
 ---
 
+---
+
+## 🚀 Conclusion
+
+This project demonstrates how SQL can be used to analyze retail data and extract meaningful insights that support business growth, operational efficiency, and strategic decision-making.
+
+---
+
+## 👤 Author
+
+**Riyad Shikdar Arin**  
+Aspiring Data Analyst | SQL | PostgreSQL | Excel
+
 ## 📁 Project Structure
 
