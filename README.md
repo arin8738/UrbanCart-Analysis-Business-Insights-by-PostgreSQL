@@ -47,9 +47,9 @@ The database was hosted in Supabase and accessed using PostgreSQL for querying a
 
 ![ER Diagram](image/page12.png)
 
-![ER Diagram](image/page13.png)
+![ER Diagram](image/page13p.png)
 
-![ER Diagram](image/page14.png)
+![ER Diagram](image/page14p.png)
 
 ![ER Diagram](image/page15.png)
 
