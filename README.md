@@ -16,7 +16,7 @@ The analysis focuses on sales performance, customer behavior, product trends, an
 
 - Database: **PostgreSQL**
 - Hosting Platform: **Supabase**
-![ER Diagram](images/supabase.png)
+![ER Diagram](image/supabase.png)
 
 The database was hosted in Supabase and accessed using PostgreSQL for querying and analysis.
 
