@@ -34,7 +34,7 @@ The database was hosted in Supabase and accessed using PostgreSQL for querying a
 
 The following ER diagram represents the structure of the UrbanCart database used in this analysis:
 
-![ER Diagram](images/er_diagram.png)
+![ER Diagram](images/er diagram.png)
 
 > *(Replace the image path with your actual image location in GitHub)*
 
