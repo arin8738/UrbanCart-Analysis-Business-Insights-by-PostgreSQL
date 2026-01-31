@@ -24,27 +24,49 @@ The database was hosted in Supabase and accessed using PostgreSQL for querying a
 
 ## 🧩 Slide Overview
 ![ER Diagram](image/page1.png)
+
 ![ER Diagram](image/page2.png)
+
 ![ER Diagram](image/page3.png)
+
 ![ER Diagram](image/page4.png)
+
 ![ER Diagram](image/page5.png)
+
 ![ER Diagram](image/page6.png)
+
 ![ER Diagram](image/page7.png)
+
 ![ER Diagram](image/page8.png)
+
 ![ER Diagram](image/page9.png)
+
 ![ER Diagram](image/page10.png)
+
 ![ER Diagram](image/page11.png)
+
 ![ER Diagram](image/page12.png)
+
 ![ER Diagram](image/page13.png)
+
 ![ER Diagram](image/page14.png)
+
 ![ER Diagram](image/page15.png)
+
 ![ER Diagram](image/page16.png)
+
 ![ER Diagram](image/page17.png)
+
 ![ER Diagram](image/page18.png)
+
 ![ER Diagram](image/page19.png)
+
 ![ER Diagram](image/page20.png)
+
 ![ER Diagram](image/page21.png)
+
 ![ER Diagram](image/page22.png)
+
 ![ER Diagram](image/page23.png)
 
 
