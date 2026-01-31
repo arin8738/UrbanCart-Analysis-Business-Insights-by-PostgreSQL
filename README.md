@@ -22,9 +22,7 @@ The database was hosted in Supabase and accessed using PostgreSQL for querying a
 
 ---
 
-## 🧩 Entity Relationship (ER) Diagram
-
-The following ER diagram represents the structure of the UrbanCart database used in this analysis:
+## 🧩 Slide Overview
 ![ER Diagram](image/page1.png)
 ![ER Diagram](image/page2.png)
 ![ER Diagram](image/page3.png)
